@@ -1,7 +1,7 @@
 # <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=mafortee" />
 
 ```text
-code, exploit, secure
+
 bfxa on discord
 ```
 
@@ -58,16 +58,6 @@ Languages:  Python • JavaScript • C++
 └── Post Exploitation
 ```
 
----
-
-### GitHub
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mafortee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafortee&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-</p>
-
----
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=mafortee&theme=tokyonight&hide_border=true&background=00000000"/>
